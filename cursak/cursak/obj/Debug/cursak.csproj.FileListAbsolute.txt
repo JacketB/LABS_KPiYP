@@ -1,0 +1,14 @@
+C:\Users\ArTi\source\repos\cursak\cursak\bin\Debug\cursak.exe.config
+C:\Users\ArTi\source\repos\cursak\cursak\bin\Debug\cursak.exe
+C:\Users\ArTi\source\repos\cursak\cursak\bin\Debug\cursak.pdb
+C:\Users\ArTi\source\repos\cursak\cursak\obj\Debug\cursak.csprojAssemblyReference.cache
+C:\Users\ArTi\source\repos\cursak\cursak\obj\Debug\cursak.csproj.CoreCompileInputs.cache
+C:\Users\ArTi\source\repos\cursak\cursak\obj\Debug\cursak.exe
+C:\Users\ArTi\source\repos\cursak\cursak\obj\Debug\cursak.pdb
+K:\В\Учеба\КПиЯП\cursak\cursak\bin\Debug\cursak.exe.config
+K:\В\Учеба\КПиЯП\cursak\cursak\bin\Debug\cursak.exe
+K:\В\Учеба\КПиЯП\cursak\cursak\bin\Debug\cursak.pdb
+K:\В\Учеба\КПиЯП\cursak\cursak\obj\Debug\cursak.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\cursak\cursak\obj\Debug\cursak.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\cursak\cursak\obj\Debug\cursak.exe
+K:\В\Учеба\КПиЯП\cursak\cursak\obj\Debug\cursak.pdb

@@ -1,0 +1,7 @@
+K:\В\Учеба\КПиЯП\ЛР6_Зеленая\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+K:\В\Учеба\КПиЯП\ЛР6_Зеленая\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+K:\В\Учеба\КПиЯП\ЛР6_Зеленая\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+K:\В\Учеба\КПиЯП\ЛР6_Зеленая\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\ЛР6_Зеленая\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР6_Зеленая\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+K:\В\Учеба\КПиЯП\ЛР6_Зеленая\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb

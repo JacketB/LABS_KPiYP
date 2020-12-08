@@ -1,0 +1,9 @@
+C:\Users\mtx\source\repos\Zadanie4\Zadanie4\bin\Debug\Zadanie4.exe.config
+C:\Users\mtx\source\repos\Zadanie4\Zadanie4\bin\Debug\Zadanie4.exe
+C:\Users\mtx\source\repos\Zadanie4\Zadanie4\bin\Debug\Zadanie4.pdb
+C:\Users\mtx\source\repos\Zadanie4\Zadanie4\obj\Debug\Zadanie4.csprojAssemblyReference.cache
+C:\Users\mtx\source\repos\Zadanie4\Zadanie4\obj\Debug\Zadanie4.Form1.resources
+C:\Users\mtx\source\repos\Zadanie4\Zadanie4\obj\Debug\Zadanie4.Properties.Resources.resources
+C:\Users\mtx\source\repos\Zadanie4\Zadanie4\obj\Debug\Zadanie4.csproj.GenerateResource.cache
+C:\Users\mtx\source\repos\Zadanie4\Zadanie4\obj\Debug\Zadanie4.exe
+C:\Users\mtx\source\repos\Zadanie4\Zadanie4\obj\Debug\Zadanie4.pdb

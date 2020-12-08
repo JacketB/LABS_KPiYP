@@ -1,0 +1,6 @@
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\bin\Debug\lib.exe.config
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\bin\Debug\lib.exe
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\bin\Debug\lib.pdb
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\obj\Debug\lib.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\obj\Debug\lib.exe
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\obj\Debug\lib.pdb

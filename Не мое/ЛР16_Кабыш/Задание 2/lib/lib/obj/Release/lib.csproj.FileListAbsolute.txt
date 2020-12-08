@@ -1,0 +1,7 @@
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\obj\Release\lib.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\obj\Release\lib.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\bin\Release\lib.exe.config
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\bin\Release\lib.exe
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\bin\Release\lib.pdb
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\obj\Release\lib.exe
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\lib\lib\obj\Release\lib.pdb

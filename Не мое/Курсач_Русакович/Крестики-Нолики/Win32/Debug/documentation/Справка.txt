@@ -1,0 +1,12 @@
+The program is so simple:
+It meets a form with authorization, where it asks to enter data
+The name of the first player and the second, WARNING! The name must not
+exceed 6 characters and be less than 2 characters.
+---------------Main Window----------------------------
+Game field, 3x3, where you walk, the rules are simple as always:
+Build an X or O-row of three to win.
+To dilute the program, it was decided to add settings,
+In the settings, you can select a dark and light theme and change it.
+the color of nickname and crosses and zeros.
+You can change the nickname if you don't like it.
+There is a very useful button - Exit.

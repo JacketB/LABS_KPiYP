@@ -1,0 +1,6 @@
+H:\В\Учеба\КПиЯП\ЛР4_Дещеня\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+H:\В\Учеба\КПиЯП\ЛР4_Дещеня\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+H:\В\Учеба\КПиЯП\ЛР4_Дещеня\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+H:\В\Учеба\КПиЯП\ЛР4_Дещеня\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojAssemblyReference.cache
+H:\В\Учеба\КПиЯП\ЛР4_Дещеня\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+H:\В\Учеба\КПиЯП\ЛР4_Дещеня\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb

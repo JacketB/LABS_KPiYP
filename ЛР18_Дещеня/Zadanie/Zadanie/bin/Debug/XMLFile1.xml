@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Notebooks num = "1">
+    <Model>Lenovo IdeaPad Gaming 3</Model>
+    <Proccesor>Intel Core i5 10300H 2500 МГц</Proccesor>
+    <OZU>8 ГБ</OZU>
+    <Pam>SSD 512 ГБ</Pam>
+    <GPU>NVIDIA GeForce GTX 1650 4 ГБ GDDR6</GPU>
+    <Zena>2290 р.</Zena>
+  </Notebooks>
+
+  <Notebooks num ="2">
+    <Model>ASUS Zenbook UX433FQ-A5081T</Model>
+    <Proccesor>Core i5 10210U 1600 МГц</Proccesor>
+    <OZU>8 ГБ</OZU>
+    <Pam>SSD 256 ГБ</Pam>
+    <GPU>NVIDIA GeForce MX350 2 ГБ</GPU>
+    <Zena>2699 р.</Zena>
+  </Notebooks>
+
+  <Notebooks num="3">
+    <Model>HP 15-dw1084ur 2F3J9EA</Model>
+    <Proccesor>Core i5 10210U 1600 МГц</Proccesor>
+    <OZU>8 ГБ</OZU>
+    <Pam>SSD 256 ГБ</Pam>
+    <Zena>1649 р.</Zena>
+  </Notebooks>
+
+  <Notebooks num="4">
+    <Model>HP ProBook 445R G6 8AC52ES</Model>
+    <Proccesor>Ryzen 7 3700U 2300 МГц</Proccesor>
+    <OZU>8 ГБ</OZU>
+    <Pam>HDD+SSD 1000+256 ГБ</Pam>
+    <GPU>встроенный</GPU>
+    <Zena>2054 р.</Zena>
+  </Notebooks>
+
+  <Notebooks num="5">
+    <Model>HP ENVY 15-ep0037ur 22R15EA</Model>
+    <Proccesor>Core i5 10300H 2500 МГц</Proccesor>
+    <OZU>16 ГБ</OZU>
+    <Pam>SSD 512 ГБ</Pam>
+    <GPU>NVIDIA GeForce GTX 1650 Ti 4 ГБ</GPU>
+    <Zena>3536 р.</Zena>
+
+  </Notebooks>
+</root>

@@ -1,0 +1,7 @@
+D:\Д\Курсовой\Game\Game\bin\Debug\Game.exe.config
+D:\Д\Курсовой\Game\Game\bin\Debug\Game.exe
+D:\Д\Курсовой\Game\Game\bin\Debug\Game.pdb
+D:\Д\Курсовой\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Д\Курсовой\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Д\Курсовой\Game\Game\obj\Debug\Game.exe
+D:\Д\Курсовой\Game\Game\obj\Debug\Game.pdb

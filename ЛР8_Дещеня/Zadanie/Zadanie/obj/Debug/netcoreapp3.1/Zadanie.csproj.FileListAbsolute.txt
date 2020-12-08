@@ -1,0 +1,13 @@
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.AssemblyInfoInputs.cache
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.AssemblyInfo.cs
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.exe
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.deps.json
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.runtimeconfig.json
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.runtimeconfig.dev.json
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.dll
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.pdb
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.dll
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.pdb
+K:\В\Учеба\КПиЯП\ЛР8_Дещеня\Zadanie\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.genruntimeconfig.cache

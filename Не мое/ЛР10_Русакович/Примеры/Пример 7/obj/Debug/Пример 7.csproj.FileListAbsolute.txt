@@ -1,0 +1,14 @@
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Примеры\Пример 7\bin\Debug\Пример 7.exe.config
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Примеры\Пример 7\bin\Debug\Пример 7.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Примеры\Пример 7\bin\Debug\Пример 7.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Примеры\Пример 7\obj\Debug\Пример 7.csprojAssemblyReference.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Примеры\Пример 7\obj\Debug\Пример 7.csproj.CoreCompileInputs.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Примеры\Пример 7\obj\Debug\Пример 7.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Примеры\Пример 7\obj\Debug\Пример 7.pdb
+E:\ЛР_Русакович\Примеры\Пример 7\bin\Debug\Русакович.exe.config
+E:\ЛР_Русакович\Примеры\Пример 7\bin\Debug\Русакович.exe
+E:\ЛР_Русакович\Примеры\Пример 7\bin\Debug\Русакович.pdb
+E:\ЛР_Русакович\Примеры\Пример 7\obj\Debug\Пример 7.csprojAssemblyReference.cache
+E:\ЛР_Русакович\Примеры\Пример 7\obj\Debug\Пример 7.csproj.CoreCompileInputs.cache
+E:\ЛР_Русакович\Примеры\Пример 7\obj\Debug\Русакович.exe
+E:\ЛР_Русакович\Примеры\Пример 7\obj\Debug\Русакович.pdb

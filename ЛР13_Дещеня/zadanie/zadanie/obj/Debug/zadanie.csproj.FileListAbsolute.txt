@@ -1,0 +1,14 @@
+D:\Д\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\bin\Debug\zadanie.exe.config
+D:\Д\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\bin\Debug\zadanie.exe
+D:\Д\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\bin\Debug\zadanie.pdb
+D:\Д\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\obj\Debug\zadanie.csprojAssemblyReference.cache
+D:\Д\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\obj\Debug\zadanie.csproj.CoreCompileInputs.cache
+D:\Д\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\obj\Debug\zadanie.exe
+D:\Д\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\obj\Debug\zadanie.pdb
+K:\В\Учеба\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\bin\Debug\zadanie.exe.config
+K:\В\Учеба\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\bin\Debug\zadanie.exe
+K:\В\Учеба\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\bin\Debug\zadanie.pdb
+K:\В\Учеба\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\obj\Debug\zadanie.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\obj\Debug\zadanie.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\obj\Debug\zadanie.exe
+K:\В\Учеба\КПиЯП\ЛР13_Дещеня\zadanie\zadanie\obj\Debug\zadanie.pdb

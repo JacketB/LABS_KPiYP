@@ -1,0 +1,6 @@
+C:\Users\mtx\source\repos\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe.config
+C:\Users\mtx\source\repos\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe
+C:\Users\mtx\source\repos\Zadanie3\Zadanie3\bin\Debug\Zadanie3.pdb
+C:\Users\mtx\source\repos\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csprojAssemblyReference.cache
+C:\Users\mtx\source\repos\Zadanie3\Zadanie3\obj\Debug\Zadanie3.exe
+C:\Users\mtx\source\repos\Zadanie3\Zadanie3\obj\Debug\Zadanie3.pdb

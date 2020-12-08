@@ -1,0 +1,13 @@
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\bin\Debug\netcoreapp3.1\NewClass2.exe
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\bin\Debug\netcoreapp3.1\NewClass2.deps.json
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\bin\Debug\netcoreapp3.1\NewClass2.runtimeconfig.json
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\bin\Debug\netcoreapp3.1\NewClass2.runtimeconfig.dev.json
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\bin\Debug\netcoreapp3.1\NewClass2.dll
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\bin\Debug\netcoreapp3.1\NewClass2.pdb
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\obj\Debug\netcoreapp3.1\NewClass2.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\obj\Debug\netcoreapp3.1\NewClass2.AssemblyInfoInputs.cache
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\obj\Debug\netcoreapp3.1\NewClass2.AssemblyInfo.cs
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\obj\Debug\netcoreapp3.1\NewClass2.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\obj\Debug\netcoreapp3.1\NewClass2.dll
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\obj\Debug\netcoreapp3.1\NewClass2.pdb
+K:\В\Учеба\КПиЯП\ЛР5_Дещеня\NewClass2\NewClass2\obj\Debug\netcoreapp3.1\NewClass2.genruntimeconfig.cache

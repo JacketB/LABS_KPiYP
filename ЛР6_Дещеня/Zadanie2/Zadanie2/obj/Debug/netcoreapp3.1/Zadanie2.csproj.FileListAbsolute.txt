@@ -1,0 +1,13 @@
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.exe
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.deps.json
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.runtimeconfig.json
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.runtimeconfig.dev.json
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.dll
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\bin\Debug\netcoreapp3.1\Zadanie2.pdb
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.AssemblyInfoInputs.cache
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.AssemblyInfo.cs
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.dll
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.pdb
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie2\Zadanie2\obj\Debug\netcoreapp3.1\Zadanie2.genruntimeconfig.cache

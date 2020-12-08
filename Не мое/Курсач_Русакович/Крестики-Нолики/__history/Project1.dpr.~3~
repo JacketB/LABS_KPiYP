@@ -1,0 +1,18 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  Unit1 in 'Unit1.pas' {Login},
+  Unit2 in 'Unit2.pas' {Game},
+  Unit3 in 'Unit3.pas' {MessageWin};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TLogin, Login);
+  Application.CreateForm(TGame, Game);
+  Application.CreateForm(TMessageWin, MessageWin);
+  Application.Run;
+end.

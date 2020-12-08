@@ -1,0 +1,38 @@
+unit Unit4;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TSetting = class(TForm)
+    colorPlayername1: TLabel;
+    colorPlayername2: TLabel;
+    colorX: TLabel;
+    colorO: TLabel;
+    ButtonOK: TButton;
+    procedure ButtonOKClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Setting: TSetting;
+  colorXA:string;
+
+implementation
+
+{$R *.dfm}
+uses Unit1, Unit2;
+
+procedure TSetting.ButtonOKClick(Sender: TObject);
+begin
+  Game.playername1.Font.Color:=clBlue;
+  Game.playername2.Font.Color:=clYellow;
+end;
+
+end.

@@ -1,0 +1,13 @@
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\bin\Debug\netcoreapp3.1\Primer4.exe
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\bin\Debug\netcoreapp3.1\Primer4.deps.json
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\bin\Debug\netcoreapp3.1\Primer4.runtimeconfig.json
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\bin\Debug\netcoreapp3.1\Primer4.runtimeconfig.dev.json
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\bin\Debug\netcoreapp3.1\Primer4.dll
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\bin\Debug\netcoreapp3.1\Primer4.pdb
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\obj\Debug\netcoreapp3.1\Primer4.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\obj\Debug\netcoreapp3.1\Primer4.AssemblyInfoInputs.cache
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\obj\Debug\netcoreapp3.1\Primer4.AssemblyInfo.cs
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\obj\Debug\netcoreapp3.1\Primer4.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\obj\Debug\netcoreapp3.1\Primer4.dll
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\obj\Debug\netcoreapp3.1\Primer4.pdb
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer4\Primer4\obj\Debug\netcoreapp3.1\Primer4.genruntimeconfig.cache

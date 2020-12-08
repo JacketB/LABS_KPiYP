@@ -1,0 +1,43 @@
+object Info: TInfo
+  Left = 0
+  Top = 0
+  BiDiMode = bdRightToLeftReadingOnly
+  BorderStyle = bsSingle
+  Caption = #1054' '#1087#1088#1086#1075#1088#1072#1084#1084#1077
+  ClientHeight = 223
+  ClientWidth = 498
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  ParentBiDiMode = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object TreeView1: TTreeView
+    Left = 8
+    Top = 8
+    Width = 145
+    Height = 207
+    Indent = 19
+    TabOrder = 0
+    Items.NodeData = {
+      0302000000320000000000000000000000FFFFFFFFFFFFFFFF00000000000000
+      0002000000010A18043D0444043E0440043C043004460438044F043400000000
+      00000000000000FFFFFFFFFFFFFFFF000000000000000000000000010B1E0420
+      003F0440043E043304400430043C043C043504300000000000000000000000FF
+      FFFFFFFFFFFFFF00000000000000000000000001091E04310420003004320442
+      043E04400435042C0000000000000000000000FFFFFFFFFFFFFFFF0000000000
+      00000000000000010721043F044004300432043A043004}
+  end
+  object ListView1: TListView
+    Left = 159
+    Top = 8
+    Width = 331
+    Height = 207
+    Columns = <>
+    TabOrder = 1
+  end
+end

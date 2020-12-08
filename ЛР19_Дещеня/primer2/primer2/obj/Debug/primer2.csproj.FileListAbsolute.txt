@@ -1,0 +1,7 @@
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\primer2\primer2\bin\Debug\primer2.exe.config
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\primer2\primer2\bin\Debug\primer2.exe
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\primer2\primer2\bin\Debug\primer2.pdb
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\primer2\primer2\obj\Debug\primer2.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\primer2\primer2\obj\Debug\primer2.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\primer2\primer2\obj\Debug\primer2.exe
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\primer2\primer2\obj\Debug\primer2.pdb

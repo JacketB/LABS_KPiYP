@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.456,=D:\Курсач_Русакович\Крестики-Нолики\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.538,=D:\Курсач_Русакович\Крестики-Нолики\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,D:\Курсач_Русакович\Крестики-Нолики\Unit2.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.126,=D:\Курсач_Русакович\Крестики-Нолики\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,=D:\Курсач_Русакович\Крестики-Нолики\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,D:\Delphi\Project1.dproj=D:\Delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.654,=D:\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,=D:\Курсач_Русакович\Крестики-Нолики\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.556,=D:\Delphi\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

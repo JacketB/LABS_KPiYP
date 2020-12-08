@@ -1,0 +1,13 @@
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\bin\Debug\netcoreapp3.1\Zadanie1.exe
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\bin\Debug\netcoreapp3.1\Zadanie1.deps.json
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\bin\Debug\netcoreapp3.1\Zadanie1.runtimeconfig.json
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\bin\Debug\netcoreapp3.1\Zadanie1.runtimeconfig.dev.json
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\bin\Debug\netcoreapp3.1\Zadanie1.dll
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\bin\Debug\netcoreapp3.1\Zadanie1.pdb
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\obj\Debug\netcoreapp3.1\Zadanie1.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\obj\Debug\netcoreapp3.1\Zadanie1.AssemblyInfoInputs.cache
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\obj\Debug\netcoreapp3.1\Zadanie1.AssemblyInfo.cs
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\obj\Debug\netcoreapp3.1\Zadanie1.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\obj\Debug\netcoreapp3.1\Zadanie1.dll
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\obj\Debug\netcoreapp3.1\Zadanie1.pdb
+K:\В\Учеба\КПиЯП\ЛР6_Дещеня\Zadanie1\Zadanie1\obj\Debug\netcoreapp3.1\Zadanie1.genruntimeconfig.cache

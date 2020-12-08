@@ -1,0 +1,7 @@
+K:\В\Учеба\КПиЯП\Не мое\ЛР15_Кабыш\Zadanie2\Zadanie2\bin\Debug\Zadanie2.exe.config
+K:\В\Учеба\КПиЯП\Не мое\ЛР15_Кабыш\Zadanie2\Zadanie2\bin\Debug\Zadanie2.exe
+K:\В\Учеба\КПиЯП\Не мое\ЛР15_Кабыш\Zadanie2\Zadanie2\bin\Debug\Zadanie2.pdb
+K:\В\Учеба\КПиЯП\Не мое\ЛР15_Кабыш\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\Не мое\ЛР15_Кабыш\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\Не мое\ЛР15_Кабыш\Zadanie2\Zadanie2\obj\Debug\Zadanie2.exe
+K:\В\Учеба\КПиЯП\Не мое\ЛР15_Кабыш\Zadanie2\Zadanie2\obj\Debug\Zadanie2.pdb

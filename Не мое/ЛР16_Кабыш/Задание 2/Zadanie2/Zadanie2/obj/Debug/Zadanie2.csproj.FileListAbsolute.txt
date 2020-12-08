@@ -1,0 +1,14 @@
+H:\В\Учеба\КПиЯП\ЛР4_Дещеня\Zadanie2\Zadanie2\bin\Debug\Zadanie2.exe.config
+H:\В\Учеба\КПиЯП\ЛР4_Дещеня\Zadanie2\Zadanie2\bin\Debug\Zadanie2.exe
+H:\В\Учеба\КПиЯП\ЛР4_Дещеня\Zadanie2\Zadanie2\bin\Debug\Zadanie2.pdb
+H:\В\Учеба\КПиЯП\ЛР4_Дещеня\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csprojAssemblyReference.cache
+H:\В\Учеба\КПиЯП\ЛР4_Дещеня\Zadanie2\Zadanie2\obj\Debug\Zadanie2.exe
+H:\В\Учеба\КПиЯП\ЛР4_Дещеня\Zadanie2\Zadanie2\obj\Debug\Zadanie2.pdb
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\Zadanie2\Zadanie2\bin\Debug\Zadanie2.exe.config
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\Zadanie2\Zadanie2\bin\Debug\Zadanie2.exe
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\Zadanie2\Zadanie2\bin\Debug\Zadanie2.pdb
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\Zadanie2\Zadanie2\obj\Debug\Zadanie2.exe
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\Zadanie2\Zadanie2\obj\Debug\Zadanie2.pdb
+K:\В\Учеба\КПиЯП\ЛР16_Дещеня\Задание 2\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csproj.CopyComplete

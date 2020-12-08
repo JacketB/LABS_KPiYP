@@ -1,0 +1,102 @@
+unit Unit4;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TSetting = class(TForm)
+    colorPlayername1: TLabel;
+    colorPlayername2: TLabel;
+    colorX: TLabel;
+    colorO: TLabel;
+    ButtonOK: TButton;
+    ColorDialog1: TColorDialog;
+    Label1: TLabel;
+    Label2: TLabel;
+    RadioButton1: TRadioButton;
+    RadioButton2: TRadioButton;
+    procedure ButtonOKClick(Sender: TObject);
+    procedure colorPlayername1Click(Sender: TObject);
+    procedure colorPlayername2Click(Sender: TObject);
+    procedure colorXClick(Sender: TObject);
+    procedure colorOClick(Sender: TObject);
+    procedure RadioButton2Click(Sender: TObject);
+    procedure RadioButton1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Setting: TSetting;
+  colorXA:string;
+
+implementation
+
+{$R *.dfm}
+uses Unit1, Unit2;
+
+procedure TSetting.ButtonOKClick(Sender: TObject); //кнопка "ОК"
+begin
+  Game.playername1.Font.Color:=colorPlayername1.Font.Color; //присваиваем цвет первого игрока в игровом поле цвета лэйбла из настроек
+  Game.playername2.Font.Color:=colorPlayername2.Font.Color; //присваиваем цвет второго игрока в игровом поле цвета лэйбла из настроек
+  Game.score1.Font.Color:=colorPlayername1.Font.Color; //цвет счёта первого присвоить цвету ника
+  Game.score2.Font.Color:=colorPlayername2.Font.Color; //цвет счёта второго присвоить цвету ника
+  Close();
+end;
+
+procedure TSetting.colorOClick(Sender: TObject); //нажатие на "Цвет О-ля"
+begin
+ if ColorDialog1.Execute then colorO.Font.Color:=ColorDialog1.Color; //присваиваем выбранный цвет к нулю
+end;
+
+procedure TSetting.colorPlayername1Click(Sender: TObject); //нажатие на ник первого игрока
+begin
+  if ColorDialog1.Execute then colorplayername1.Font.Color:=ColorDialog1.Color; //присваиваем выбранный цвет к цвету ник-а первого игрока
+end;
+
+procedure TSetting.colorPlayername2Click(Sender: TObject); //нажатие на ник второго игрока
+begin
+  if ColorDialog1.Execute then colorPlayername2.Font.Color:=ColorDialog1.Color; //присваиваем выбранный цвет к цвету ника второго игрока
+end;
+
+procedure TSetting.colorXClick(Sender: TObject); //нажатие на "Цвет X-а"
+begin
+    if ColorDialog1.Execute then colorX.Font.Color:=ColorDialog1.Color; //присваиваем выбранный цвет к иксу
+end;
+
+
+
+procedure TSetting.RadioButton1Click(Sender: TObject); //"Темная тема"
+begin
+Game.backgroundblack.Visible := true; //видимость темной формы поля (картинка)
+Game.baclgroundwhite.Visible := false; //убираем видимость светлой формы поля (картинка)
+Game.Color := clWhite; //Цвет фона - белый
+Game.playername1.Font.Color:=clBlack; //цвет текста ника первого игрока на игровом поле - черный
+Game.playername2.Font.Color:=clBlack; //цвет текста ника второго игрока  на игровом поле- черный
+colorplayername1.Font.Color:= clBlack; //цвет текста ника первого игрока - черный
+colorplayername2.Font.Color:= clBlack;  //цвет текста ника второго игрока - черный
+Game.Image1.Visible:=true; //картинка "VS" видимость вкл
+Game.Image2.Visible:=false; //картинка "VS" видимость выкл
+Color:=clWindowFrame; //серый цвет формы настроек
+end;
+
+procedure TSetting.RadioButton2Click(Sender: TObject);
+begin
+Game.backgroundblack.Visible := false; //видимость светлой формы поля (картинка)
+Game.baclgroundwhite.Visible := true; //убираем видимость темной формы поля (картинка)
+Game.Color := clBlack; //Цвет фона - черный
+Game.playername1.Font.Color:=clWhite; //цвет текста ника первого игрока на игровом поле - белый
+Game.playername2.Font.Color:=clWhite; //цвет текста ника второго игрока  на игровом поле- белый
+colorplayername1.Font.Color:= clWhite; //цвет текста ника первого игрока - белый
+colorplayername2.Font.Color:= clWhite;  //цвет текста ника второго игрока - белый
+Game.Image1.Visible:=false; //картинка "VS" видимость выкл
+Game.Image2.Visible:=true; //картинка "VS" видимость вкл
+Color:=clGray; //ярко серый цвет формы настроек
+end;
+
+end.

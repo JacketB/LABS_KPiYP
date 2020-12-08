@@ -1,0 +1,7 @@
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\Primer1\Primer1\bin\Debug\Primer1.exe.config
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\Primer1\Primer1\bin\Debug\Primer1.exe
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\Primer1\Primer1\bin\Debug\Primer1.pdb
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\Primer1\Primer1\obj\Debug\Primer1.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\Primer1\Primer1\obj\Debug\Primer1.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\Primer1\Primer1\obj\Debug\Primer1.exe
+K:\В\Учеба\КПиЯП\ЛР19_Дещеня\Primer1\Primer1\obj\Debug\Primer1.pdb

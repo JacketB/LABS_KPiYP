@@ -1,0 +1,13 @@
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\obj\Debug\netcoreapp3.1\Primer2.csprojAssemblyReference.cache
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\obj\Debug\netcoreapp3.1\Primer2.AssemblyInfoInputs.cache
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\obj\Debug\netcoreapp3.1\Primer2.AssemblyInfo.cs
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\obj\Debug\netcoreapp3.1\Primer2.csproj.CoreCompileInputs.cache
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\bin\Debug\netcoreapp3.1\Primer2.exe
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\bin\Debug\netcoreapp3.1\Primer2.deps.json
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\bin\Debug\netcoreapp3.1\Primer2.runtimeconfig.json
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\bin\Debug\netcoreapp3.1\Primer2.runtimeconfig.dev.json
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\bin\Debug\netcoreapp3.1\Primer2.dll
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\bin\Debug\netcoreapp3.1\Primer2.pdb
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\obj\Debug\netcoreapp3.1\Primer2.dll
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\obj\Debug\netcoreapp3.1\Primer2.pdb
+K:\В\Учеба\КПиЯП\ЛР7_Дещеня\Primer2\Primer2\obj\Debug\netcoreapp3.1\Primer2.genruntimeconfig.cache
