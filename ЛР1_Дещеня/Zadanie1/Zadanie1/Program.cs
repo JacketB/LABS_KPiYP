@@ -10,7 +10,7 @@ namespace Zadanie1
     {
         static void Main()
         {
-            System.Console.WriteLine("Изучаем язык C#");
+            System.Console.WriteLine("Изучаем язык C# дадада");
         }
     }
 }
